@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  jx3-demo-golang-http-2021-01-16:
+  - apiVersion: v1
+    created: "2021-01-18T15:04:05.604717808Z"
+    description: A Helm chart for Kubernetes
+    digest: 1d14a8d9655b984c49f96f08c9fd2a934a1c4401cbab9f806cfc3801f6ab3483
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: jx3-demo-golang-http-2021-01-16
+    urls:
+    - jx3-demo-golang-http-2021-01-16-0.0.4.tgz
+    version: 0.0.4
+generated: "2021-01-18T15:04:05.604004634Z"
